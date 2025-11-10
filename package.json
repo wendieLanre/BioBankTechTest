@@ -1,0 +1,13 @@
+{
+  "name": "biobank_playwright",
+  "version": "1.0.0",
+  "description": "take home task",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Lanre Ikuesan",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.10.0"
+  }
+}
